@@ -34,7 +34,7 @@
     -->
     <img
       class="size-36 rounded-2xl border-2 border-transparent transition-all hover:border-blue-100"
-      src="@/assets/pic.png"
+      src="https://github.com/Eric88888888.png"
     />
 
     <!-- 

@@ -34,7 +34,7 @@
     -->
     <img
       class="size-36 rounded-2xl border-2 border-transparent transition-all hover:border-blue-100"
-      src="https://github.com/xiaoook.png"
+      src="@/assets/pic.png"
     />
 
     <!-- 
@@ -61,14 +61,22 @@
     
     示例：<h1 class="mt-8 text-blue-500 text-5xl">我的标题</h1>
     -->
-    <h1 class="mt-8">👋 Hi, 这里是肖遥</h1>
+    <h1 class="mt-8 text-gray-800 text-4xl font-bold">
+      👋 Hi, 这里是<span class="text-indigo-600">程逸棋</span>
+    </h1>
 
     <!-- 
     ❗️ 修改副标题：
     直接修改 <p> 标签中的文字
     font-light 表示字体较细，你可以改成 font-bold（粗体）
     -->
-    <p class="text-2xl font-light">这是一个我的个人网站</p>
+    <p class="text-2xl font-light text-gray-600">这是一个我的个人网站</p>
+
+    <!-- QQ账号展示 -->
+    <p class="mt-4 bg-linear-to-r from-indigo-50 to-blue-50 p-3 rounded-xl inline-block">
+      <span class="font-medium text-indigo-900">Q:</span>
+      <span class="text-indigo-600 font-semibold ml-1">158322110</span>
+    </p>
 
     <!-- 
     ==============================================

@@ -2,8 +2,8 @@
 
 body {
   font-family: var(--font-sans); /* 自定义字体 */
-  background-color: var(--color-slate-50); /* 自定义背景颜色 */
-  color: var(--color-slate-800); /* 自定义文本颜色 */
+  background-color: var(--color-green-50); /* 自定义背景颜色 */
+  color: var(--color-blue-800); /* 自定义文本颜色 */
 }
 
 a {

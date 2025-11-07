@@ -116,10 +116,10 @@
     -->
     <div class="bg-linear-to-r from-indigo-50 to-purple-50 p-8 rounded-2xl text-center mb-8">
       <!-- ❗️ 修改座右铭文字 -->
-      <p class="text-2xl font-light text-gray-700 italic">"Stay hungry, stay foolish."</p>
+      <p class="text-2xl font-light text-gray-700 italic">"Hope is a path on the mountainside."</p>
 
       <!-- ❗️ 修改作者 -->
-      <p class="text-gray-500 mt-2">— Steve Jobs</p>
+      <p class="text-gray-500 mt-2">— Lu Xun</p>
     </div>
   </div>
 </template>

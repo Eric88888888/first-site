@@ -28,7 +28,7 @@
       直接修改 <h2> 标签中的文字
       可以是中文、英文或中英文结合
       -->
-      <h2 class="text-4xl font-bold text-gray-800">肖遥 Hunter Xiao</h2>
+      <h2 class="text-4xl font-bold text-gray-800">程逸棋 Eric</h2>
 
       <!-- 
       ❗️ 修改个人简介：
@@ -36,7 +36,7 @@
       可以包括：学校、专业、年级、兴趣爱好等
       -->
       <p class="text-xl text-gray-600">
-        宁波诺丁汉大学计算机系大三学生，热爱编程与技术,学习成绩十分优异。
+        台球 围棋
       </p>
     </div>
 
@@ -78,6 +78,10 @@
         <div class="text-center w-12">
           <div class="text-2xl mb-2">🎮</div>
           <p class="text-gray-700">游戏</p>
+        </div>
+        <div class="text-center w-12">
+          <div class="text-2xl mb-2">🎵</div>
+          <p class="text-gray-700">音乐</p>
         </div>
       </Row>
     </div>
